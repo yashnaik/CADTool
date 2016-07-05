@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yashnaik/hlsyn/src/impas4.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+queue
+-
+algorithm
+-
+sstream
+-
+stdlib.h
+-
+
